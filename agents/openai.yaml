@@ -1,0 +1,4 @@
+interface:
+  display_name: "Seedance Video"
+  short_description: "用火山方舟 API Key 生成 Seedance 视频"
+  default_prompt: "Use $seedance-video to generate a short AI video from this prompt."
