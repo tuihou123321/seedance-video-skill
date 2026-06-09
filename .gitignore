@@ -1,0 +1,19 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Local credentials
+.env
+.env.*
+!.env.example
+
+# Generated videos and temporary outputs
+outputs/
+*.mp4
+*.mov
+*.webm
+*.mkv
+
